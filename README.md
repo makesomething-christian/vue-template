@@ -9,13 +9,13 @@ Boilerplate for a Vue.js application that  uses the following development tools:
 
 To get up and running:
 
-Clone or download the repo
+1. Clone or download the repo
 
-Install the dependencies
-``` 
-npm i
-```
-Run the test server 
-```
-npm test
-```
+2. Install the dependencies
+    ``` 
+    npm i
+    ```
+3. Run the test server 
+    ```
+    npm test
+    ```
